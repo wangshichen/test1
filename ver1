@@ -3,5 +3,10 @@ version branch
 function ver1(){
 
 	print("!!");
+}
+function wangshichen(){
+
+
+	c = c + 2;
 
 }
