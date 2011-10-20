@@ -1,1 +1,9 @@
 version branch
+
+
+function wangshichen(){
+
+
+	c = c + 2;
+
+}
